@@ -30,4 +30,4 @@ MY LINKEDIN: www.linkedin.com/in/akram-yennoune-9b8045417
 MY TRYHACKME:https://tryhackme.com/p/Akrammmm
 🗂️ What's in This Repo:
 [Pre Security Path Notes](notes/pre-security-path.md)
-[Google cert notes](notes/pre-security-path.md)
+[Google cert notes](notes/google-cert-.md)
