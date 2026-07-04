@@ -1,0 +1,11 @@
+## TryHackMe: Wireshark - The Basics 
+
+Completed the "Wireshark: The Basics" room.
+
+**Topics covered:**
+- Wireshark tool overview and interface
+- Packet dissection and structure
+- Navigating captured traffic
+- Applying display filters to isolate relevant packets
+
+**Takeaway:** Got comfortable reading raw packet captures and using filters to cut through noise in a pcap — a core skill for network traffic analysis and troubleshooting.
