@@ -1,8 +1,8 @@
-## TryHackMe: Wireshark - The Basics 
+ TryHackMe: Wireshark - The Basics 
 
 Completed the "Wireshark: The Basics" room.
 
-**Topics covered:**  
+Topics covered:
 - Wireshark tool overview and interface. GUI,toolbars etc... 
 - Packet dissection and structure (Wireshark uses OSI layers to break down packets)
 - Navigating captured traffic (find packets and export files)
